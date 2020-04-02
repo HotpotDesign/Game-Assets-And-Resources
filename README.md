@@ -21,7 +21,7 @@ To add to or remove items from this list, please make a pull request.
 * https://lonegamedevs.com/
 * http://devassets.com/
 * https://github.com/sparklinlabs/superpowers-asset-packs
-* * https://craftpix.net/freebies/
+* https://craftpix.net/freebies/
 
 ## Icons
 * https://hotpot.ai/free_icons
