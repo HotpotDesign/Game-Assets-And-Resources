@@ -1,4 +1,4 @@
-# Game-Assets-And-Resources
+# Game Assets And Resources
 This tutorial is written by [Hotpot.ai](https://hotpot.ai?s=game_assets). Hotpot helps you create attractive [game assets](https://hotpot.ai/templates/game_asset?s=github_game_assets), [App Store screenshots](https://hotpot.ai/templates/iphone_xs_max?s=github_game_assets), [Google Play screenshots](https://hotpot.ai/templates/samsung_s9?s=github_game_assets), [app icons](https://hotpot.ai/templates/app_store_icon?s=github_game_assets), [logos](https://hotpot.ai/templates/text_design?s=github_game_assets) and other graphics for games, apps, and extensions.
 
 This guide was originally posted on [Hotpot.ai](https://hotpot.ai?s=unity_game_assets), and is cross-referenced here for developer convenience.
