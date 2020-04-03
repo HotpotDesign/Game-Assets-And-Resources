@@ -22,6 +22,7 @@ To add to or remove items from this list, please make a pull request.
 * http://devassets.com/
 * https://github.com/sparklinlabs/superpowers-asset-packs
 * https://craftpix.net/freebies/
+* http://osgameclones.com/
 
 ## Icons
 * https://hotpot.ai/free_icons
@@ -44,10 +45,13 @@ To add to or remove items from this list, please make a pull request.
 * http://freegameassets.blogspot.com/
 * http://unluckystudio.com/category/freegameart/
 * https://www.reinerstilesets.de/
+* http://www.dumbmanex.com/bynd_freestuff.html
+* https://openclipart.org/
 
 ## Sprites
 * http://untamed.wild-refuge.net/rpgxp.php
 * https://www.widgetworx.com/spritelib/
+* https://bevouliin.com/category/free_game_asset/
 
 ## Backgrounds & Patterns
 * https://coolbackgrounds.io/
@@ -73,6 +77,7 @@ To add to or remove items from this list, please make a pull request.
 * https://cpetry.github.io/TextureGenerator-Online/
 * https://tilesetter.org/
 * https://www.codeandweb.com/texturepacker
+* http://www.3dvalley.com/textures
 
 ## Illustrations
 * https://joeschmoe.io/
@@ -108,8 +113,16 @@ To add to or remove items from this list, please make a pull request.
 * https://www.blendernation.com/category/art/free-blender-models/
 * https://ephtracy.github.io/
 * http://www.minddesk.com/index.php
+* http://mocapdata.com/
+* https://3dwarehouse.sketchup.com/
+* https://3dsmodels.com/
+* https://archive3d.net/
+* https://www.sharecg.com/
+* http://creativity103.com/
 
-## Sounds
+## Sounds & Music
+* https://www.unminus.com/
+* https://www.producthunt.com/posts/fugue-2-0
 * https://www.myinstants.com/index/us/
 * https://freesound.org/
 * https://www.freesfx.co.uk/
@@ -123,14 +136,17 @@ To add to or remove items from this list, please make a pull request.
 * https://icons8.com/music
 * https://sonic-pi.net/
 * https://www.youtube.com/audiolibrary/music?nv=1
-* https://www.unminus.com/
+* http://ccmixter.org/
+* http://www.flashkit.com/soundfx/
+* https://www.newgrounds.com/audio/
+* https://musopen.org/
+* http://openmusicarchive.org/
+* https://www.indiegamemusic.com/searchtracks.php
+* https://musical-artifacts.com/artifacts
+* http://opsound.org/index.php
 
 ## Color Helpers
 * https://hotpot.ai/assistant/color_assistant
-
-## Music
-* https://www.newgrounds.com/audio/
-* http://dig.ccmixter.org/
 
 ## Fonts
 * https://fonts.google.com/
@@ -139,6 +155,7 @@ To add to or remove items from this list, please make a pull request.
 * https://www.freechinesefont.com/
 * https://chinesefontdesign.com/
 * https://cooltext.com/Fonts-Unicode-Chinese
+* https://www.theleagueofmoveabletype.com/
 * https://www.haleyfiege.fun/fonts
 * https://www.typewolf.com/
 * https://muffingroup.com/blog/best-free-fonts/
