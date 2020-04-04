@@ -185,7 +185,8 @@ To add to or remove items from this list, please make a pull request.
 This list builds upon these lists made by others:
 
 * https://github.com/Calinou/awesome-gamedev
-* https://reddit.com/r/gamedev/comments/8q3c6j/is_someone_maintaining_a_list_of_free_assets/
+* https://www.buildbox.com/top-20-sites-for-free-game-art/
 * http://procedural-worlds.com/blog/best-free-unity-assets-categorised-mega-list/
 * https://felgo.com/game-resources/16-sites-featuring-free-game-graphics
 * https://conceptartempire.com/free-game-art-sites/
+* https://medium.com/@mrnerd9/3f2cb78c34e4
