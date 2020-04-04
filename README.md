@@ -16,7 +16,7 @@ To add to or remove items from this list, please make a pull request.
 * https://glitchthegame.com/public-domain-game-art/
 * https://itch.io/game-assets/free
 * https://gameart2d.com/freebies.html
-* https://gameartguppy.com/
+* http://gameartguppy.com/
 * https://assetstore.unity.com/packages/2d/environments/free-platform-game-assets-85838
 * https://lonegamedevs.com/
 * http://devassets.com/
@@ -50,7 +50,7 @@ To add to or remove items from this list, please make a pull request.
 * http://dumbmanex.com/bynd_freestuff.html
 * https://openclipart.org/
 * https://vecteezy.com/
-* https://stickpng.com/
+* https://www.stickpng.com/
 
 ## Sprites
 * http://untamed.wild-refuge.net/rpgxp.php
@@ -77,7 +77,6 @@ To add to or remove items from this list, please make a pull request.
 * https://gametextures.com/shop
 * https://quixel.com/megascans/home
 * https://sites.google.com/site/freeseamlesstextures/home
-* https://reinerstilesets.de/graphics/texturen/bark/
 * http://telias.free.fr/textures_menu.html
 * https://cpetry.github.io/TextureGenerator-Online/
 * https://tilesetter.org/
@@ -89,7 +88,7 @@ To add to or remove items from this list, please make a pull request.
 ## Illustrations
 * https://joeschmoe.io/
 * https://iconscout.com/
-* https://blobmaker.app/
+* https://www.blobmaker.app/
 * https://humaaans.com/
 * https://iradesign.io/
 * https://github.com/MariaLetta/mega-doodles-pack
@@ -101,10 +100,9 @@ To add to or remove items from this list, please make a pull request.
 
 ## Pixel Art & Tools
 * https://aseprite.org/
-* https://piskelapp.com/
+* https://www.piskelapp.com/
 * http://app.poxi.rocks/
 * https://deviantart.com/7soul1/art/420-Pixel-Art-Icons-for-RPG-129892453
-* https://piskelapp.com/
 * http://pixelatorapp.com/
 * http://pickleeditor.com/
 
@@ -180,13 +178,13 @@ To add to or remove items from this list, please make a pull request.
 * https://firebase.google.com/
 
 ## Editors
-* https://mapeditor.org/
+* https://www.mapeditor.org/
 * http://boundingboxsoftware.com/materialize/
 
 ## Credits
 This list builds upon these lists made by others:
 
-* https://garagegames.com/community/resources/view/23092
+* https://github.com/Calinou/awesome-gamedev
 * https://reddit.com/r/gamedev/comments/8q3c6j/is_someone_maintaining_a_list_of_free_assets/
 * http://procedural-worlds.com/blog/best-free-unity-assets-categorised-mega-list/
 * https://felgo.com/game-resources/16-sites-featuring-free-game-graphics
