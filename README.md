@@ -13,24 +13,26 @@ To add to or remove items from this list, please make a pull request.
 * https://unitylist.com
 * https://kenney.nl/
 * https://opengameart.org/
-* https://www.glitchthegame.com/public-domain-game-art/
+* https://glitchthegame.com/public-domain-game-art/
 * https://itch.io/game-assets/free
-* https://www.gameart2d.com/freebies.html
-* https://www.gameartguppy.com/
+* https://gameart2d.com/freebies.html
+* https://gameartguppy.com/
 * https://assetstore.unity.com/packages/2d/environments/free-platform-game-assets-85838
 * https://lonegamedevs.com/
 * http://devassets.com/
 * https://github.com/sparklinlabs/superpowers-asset-packs
 * https://craftpix.net/freebies/
 * http://osgameclones.com/
+* https://gamedevmarket.net/
 
 ## Icons
 * https://hotpot.ai/free_icons
 * https://material.io/resources/icons/?style=baseline
-* https://www.svgrepo.com/
+* https://svgrepo.com/
 * https://game-icons.net/
-* https://www.fatcow.com/free-icons
-* https://www.clipsafari.com/
+* https://fatcow.com/free-icons
+* https://iconmonstr.com/
+* https://clipsafari.com/
 * http://fontello.com/
 * https://iconstore.co/
 * https://iconsvg.xyz/
@@ -38,54 +40,57 @@ To add to or remove items from this list, please make a pull request.
 * https://ionicons.com/
 * https://simpleicons.org/
 * https://thenounproject.com/
-* https://www.flaticon.com/
+* https://flaticon.com/
 
 ## General Graphics
-* http://www.supergameasset.com/free-game-assets
+* http://supergameasset.com/free-game-assets
 * http://freegameassets.blogspot.com/
 * http://unluckystudio.com/category/freegameart/
-* https://www.reinerstilesets.de/
-* http://www.dumbmanex.com/bynd_freestuff.html
+* https://reinerstilesets.de/
+* http://dumbmanex.com/bynd_freestuff.html
 * https://openclipart.org/
-* https://www.vecteezy.com/
+* https://vecteezy.com/
+* https://stickpng.com/
 
 ## Sprites
 * http://untamed.wild-refuge.net/rpgxp.php
-* https://www.widgetworx.com/spritelib/
+* https://widgetworx.com/spritelib/
 * https://bevouliin.com/category/free_game_asset/
 * http://gaurav.munjal.us/Universal-LPC-Spritesheet-Character-Generator/
 
 ## Backgrounds & Patterns
 * https://coolbackgrounds.io/
 * http://generative-placeholders.glitch.me/
-* https://www.toptal.com/designers/subtlepatterns/
+* https://toptal.com/designers/subtlepatterns/
 * https://philiprogers.com/svgpatterns/
 * https://trianglify.io/
-* http://www.stripegenerator.com/
+* http://stripegenerator.com/
 * http://btmills.github.io/geopattern/
-* http://www.heropatterns.com/
+* http://heropatterns.com/
 * https://getwaves.io/
 
 ## Buttons & Badges
-* https://www.imagefu.com/
+* https://imagefu.com/
 
 ## Textures & Tiles
-* https://www.textures.com/
+* https://textures.com/
 * https://gametextures.com/shop
 * https://quixel.com/megascans/home
 * https://sites.google.com/site/freeseamlesstextures/home
-* https://www.reinerstilesets.de/graphics/texturen/bark/
+* https://reinerstilesets.de/graphics/texturen/bark/
 * http://telias.free.fr/textures_menu.html
 * https://cpetry.github.io/TextureGenerator-Online/
 * https://tilesetter.org/
-* https://www.codeandweb.com/texturepacker
-* http://www.3dvalley.com/textures
+* https://codeandweb.com/texturepacker
+* http://3dvalley.com/textures
+* https://texturehaven.com/
+* http://artifexterra.com/
 
 ## Illustrations
 * https://joeschmoe.io/
 * https://iconscout.com/
-* https://www.blobmaker.app/
-* https://www.humaaans.com/
+* https://blobmaker.app/
+* https://humaaans.com/
 * https://iradesign.io/
 * https://github.com/MariaLetta/mega-doodles-pack
 * https://icons8.com/ouch
@@ -95,59 +100,62 @@ To add to or remove items from this list, please make a pull request.
 * https://ionicons.com/
 
 ## Pixel Art & Tools
-* https://www.aseprite.org/
-* https://www.piskelapp.com/
+* https://aseprite.org/
+* https://piskelapp.com/
 * http://app.poxi.rocks/
-* https://www.deviantart.com/7soul1/art/420-Pixel-Art-Icons-for-RPG-129892453
-* https://www.piskelapp.com/
+* https://deviantart.com/7soul1/art/420-Pixel-Art-Icons-for-RPG-129892453
+* https://piskelapp.com/
+* http://pixelatorapp.com/
+* http://pickleeditor.com/
 
 ## 3D
 * https://poly.google.com/
 * https://assetstore.unity.com/packages/templates/tutorials/3d-game-kit-115747
 * https://free3d.com/
 * https://sketchfab.com/
-* https://www.turbosquid.com/
-* https://www.blendswap.com/
-* http://www.oyonale.com/modeles.php?lang=en
-* http://www.cadnav.com/3d-models/
-* https://www.cgtrader.com/
-* https://www.tinkercad.com/things 
+* https://turbosquid.com/
+* https://blendswap.com/
+* http://oyonale.com/modeles.php?lang=en
+* http://cadnav.com/3d-models/
+* https://cgtrader.com/
+* https://tinkercad.com/things 
 * https://nasa3d.arc.nasa.gov/
-* https://www.blendernation.com/category/art/free-blender-models/
+* https://blendernation.com/category/art/free-blender-models/
 * https://ephtracy.github.io/
-* http://www.minddesk.com/index.php
+* http://minddesk.com/index.php
 * http://mocapdata.com/
 * https://3dwarehouse.sketchup.com/
 * https://3dsmodels.com/
 * https://archive3d.net/
-* https://www.sharecg.com/
+* https://sharecg.com/
 * http://creativity103.com/
 
 ## Sounds & Music
-* https://www.unminus.com/
-* https://www.producthunt.com/posts/fugue-2-0
-* https://www.myinstants.com/index/us/
+* https://unminus.com/
+* https://producthunt.com/posts/fugue-2-0
+* https://myinstants.com/index/us/
 * https://freesound.org/
-* https://www.freesfx.co.uk/
-* https://www.zapsplat.com/
+* https://freesfx.co.uk/
+* https://zapsplat.com/
 * https://gamesounds.xyz
 * https://freemusicarchive.org/
 * https://incompetech.com/music/
 * https://archive.org/details/nasaaudiocollection
 * http://soundbible.com/
-* https://www.bensound.com/
+* https://bensound.com/
 * https://icons8.com/music
 * https://sonic-pi.net/
-* https://www.youtube.com/audiolibrary/music?nv=1
+* https://youtube.com/audiolibrary/music?nv=1
 * http://ccmixter.org/
-* http://www.flashkit.com/soundfx/
-* https://www.newgrounds.com/audio/
+* http://flashkit.com/soundfx/
+* https://newgrounds.com/audio/
 * https://musopen.org/
 * http://openmusicarchive.org/
-* https://www.indiegamemusic.com/searchtracks.php
+* https://indiegamemusic.com/searchtracks.php
 * https://musical-artifacts.com/artifacts
 * http://opsound.org/index.php
 * https://silvermansound.com/free-music
+* http://raisedbeaches.com/octave/index.html
 
 ## Color Helpers
 * https://hotpot.ai/assistant/color_assistant
@@ -155,13 +163,13 @@ To add to or remove items from this list, please make a pull request.
 ## Fonts
 * https://fonts.google.com/
 * https://fontlibrary.org/
-* https://www.dafont.com/
-* https://www.freechinesefont.com/
+* https://dafont.com/
+* https://freechinesefont.com/
 * https://chinesefontdesign.com/
 * https://cooltext.com/Fonts-Unicode-Chinese
-* https://www.theleagueofmoveabletype.com/
-* https://www.haleyfiege.fun/fonts
-* https://www.typewolf.com/
+* https://theleagueofmoveabletype.com/
+* https://haleyfiege.fun/fonts
+* https://typewolf.com/
 * https://muffingroup.com/blog/best-free-fonts/
 
 ## Miscellaneous
@@ -172,14 +180,14 @@ To add to or remove items from this list, please make a pull request.
 * https://firebase.google.com/
 
 ## Editors
-* https://www.mapeditor.org/
+* https://mapeditor.org/
 * http://boundingboxsoftware.com/materialize/
 
 ## Credits
 This list builds upon these lists made by others:
 
-* https://www.garagegames.com/community/resources/view/23092
-* https://www.reddit.com/r/gamedev/comments/8q3c6j/is_someone_maintaining_a_list_of_free_assets/
-* http://www.procedural-worlds.com/blog/best-free-unity-assets-categorised-mega-list/
+* https://garagegames.com/community/resources/view/23092
+* https://reddit.com/r/gamedev/comments/8q3c6j/is_someone_maintaining_a_list_of_free_assets/
+* http://procedural-worlds.com/blog/best-free-unity-assets-categorised-mega-list/
 * https://felgo.com/game-resources/16-sites-featuring-free-game-graphics
 * https://conceptartempire.com/free-game-art-sites/
