@@ -29,16 +29,16 @@ To add to or remove items from this list, please make a pull request.
 * https://material.io/resources/icons/?style=baseline
 * https://www.svgrepo.com/
 * https://game-icons.net/
+* https://www.fatcow.com/free-icons
 * https://www.clipsafari.com/
-* https://thenounproject.com/
-* https://game-icons.net/
-* https://www.flaticon.com/
 * http://fontello.com/
 * https://iconstore.co/
 * https://iconsvg.xyz/
 * https://illustrio.com/
 * https://ionicons.com/
 * https://simpleicons.org/
+* https://thenounproject.com/
+* https://www.flaticon.com/
 
 ## General Graphics
 * http://www.supergameasset.com/free-game-assets
@@ -47,11 +47,13 @@ To add to or remove items from this list, please make a pull request.
 * https://www.reinerstilesets.de/
 * http://www.dumbmanex.com/bynd_freestuff.html
 * https://openclipart.org/
+* https://www.vecteezy.com/
 
 ## Sprites
 * http://untamed.wild-refuge.net/rpgxp.php
 * https://www.widgetworx.com/spritelib/
 * https://bevouliin.com/category/free_game_asset/
+* http://gaurav.munjal.us/Universal-LPC-Spritesheet-Character-Generator/
 
 ## Backgrounds & Patterns
 * https://coolbackgrounds.io/
@@ -97,6 +99,7 @@ To add to or remove items from this list, please make a pull request.
 * https://www.piskelapp.com/
 * http://app.poxi.rocks/
 * https://www.deviantart.com/7soul1/art/420-Pixel-Art-Icons-for-RPG-129892453
+* https://www.piskelapp.com/
 
 ## 3D
 * https://poly.google.com/
@@ -144,6 +147,7 @@ To add to or remove items from this list, please make a pull request.
 * https://www.indiegamemusic.com/searchtracks.php
 * https://musical-artifacts.com/artifacts
 * http://opsound.org/index.php
+* https://silvermansound.com/free-music
 
 ## Color Helpers
 * https://hotpot.ai/assistant/color_assistant
