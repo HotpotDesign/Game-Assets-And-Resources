@@ -144,7 +144,7 @@ To add to or remove items from this list, please make a pull request.
 * https://icons8.com/music
 * https://sonic-pi.net/
 * https://youtube.com/audiolibrary/music?nv=1
-* http://ccmixter.org/
+* http://dig.ccmixter.org/
 * http://flashkit.com/soundfx/
 * https://newgrounds.com/audio/
 * https://musopen.org/
