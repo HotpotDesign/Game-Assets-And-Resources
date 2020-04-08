@@ -130,6 +130,7 @@ To add to or remove items from this list, please make a pull request.
 
 ## Sounds & Music
 * https://unminus.com/
+* http://dig.ccmixter.org/
 * https://producthunt.com/posts/fugue-2-0
 * https://myinstants.com/index/us/
 * https://freesound.org/
@@ -144,7 +145,6 @@ To add to or remove items from this list, please make a pull request.
 * https://icons8.com/music
 * https://sonic-pi.net/
 * https://youtube.com/audiolibrary/music?nv=1
-* http://dig.ccmixter.org/
 * http://flashkit.com/soundfx/
 * https://newgrounds.com/audio/
 * https://musopen.org/
