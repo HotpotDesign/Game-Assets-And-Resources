@@ -4,7 +4,11 @@ This tutorial is written by [Hotpot.ai](https://hotpot.ai?s=game_assets). Hotpot
 This guide was originally posted on [Hotpot.ai](https://hotpot.ai/blog/game_assets), and is cross-referenced here for developer convenience.
 
 ## Overview
-This page lists free and paid game assets and game resources for making 2D games, 3D games, Unity games, mobile games, and other games. While most of these assets are free, some may offer a freemium model with some free assets and resources and some paid.
+This page documents both free and paid assets and resources for making Unity games, iOS games, Android games, 2D games, 3D games, and other games. While most of these game assets and game resources are free, some may also offer paid assets through a freemium model. Where possible, we avoid stricly paid assets and resources unless they are best-in-class.
+
+There are countless assets and resources online to help developers craft incredible games. We invested hours to prune these options and filter out unhelpful resources, surfacing only the ones with the highest likelihood of accelerating or lowering the cost of game development. Our research produced more than 150 services and resources that span the gamut of game development, from general game assets, sprites, sounds, music, tile assets, background patterns, and more.
+
+We do not summarize assets or highlight free ones because free game assets and resources frequently change their terms or purpose, probably because maintaining free resources is not sustainable for most businesses. Other lists that provide summaries or mark free resources commonly become stale as a result.
 
 ## List Suggestions
 To add to or remove items from this list, please make a pull request.
@@ -24,6 +28,9 @@ To add to or remove items from this list, please make a pull request.
 * https://craftpix.net/freebies/
 * http://osgameclones.com/
 * https://gamedevmarket.net/
+* https://bevouliin.com/category/free_game_asset/
+* https://www.coolgameassets.com/
+* https://www.gamerschef.com/
 
 ## Icons
 * https://hotpot.ai/free_icons
@@ -51,12 +58,16 @@ To add to or remove items from this list, please make a pull request.
 * https://openclipart.org/
 * https://vecteezy.com/
 * https://www.stickpng.com/
+* https://www.reddit.com/r/gameassets/
 
 ## Sprites
 * http://untamed.wild-refuge.net/rpgxp.php
 * https://widgetworx.com/spritelib/
-* https://bevouliin.com/category/free_game_asset/
 * http://gaurav.munjal.us/Universal-LPC-Spritesheet-Character-Generator/
+* http://quaternius.com/index.html
+* https://www.oryxdesignlab.com/sprites/
+* https://www.spriteland.com/
+* http://millionthvector.blogspot.com/p/free-sprites.html
 
 ## Backgrounds & Patterns
 * https://coolbackgrounds.io/
@@ -84,6 +95,7 @@ To add to or remove items from this list, please make a pull request.
 * http://3dvalley.com/textures
 * https://texturehaven.com/
 * http://artifexterra.com/
+* https://www.textureking.com/
 
 ## Illustrations
 * https://joeschmoe.io/
@@ -102,6 +114,7 @@ To add to or remove items from this list, please make a pull request.
 * https://aseprite.org/
 * https://www.piskelapp.com/
 * http://app.poxi.rocks/
+* https://www.pixilart.com/
 * https://deviantart.com/7soul1/art/420-Pixel-Art-Icons-for-RPG-129892453
 * http://pixelatorapp.com/
 * http://pickleeditor.com/
