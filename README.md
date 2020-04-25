@@ -6,9 +6,9 @@ This guide was originally posted on [Hotpot.ai](https://hotpot.ai/blog/game_asse
 ## Overview
 This page documents both free and paid assets and resources for making Unity games, iOS games, Android games, 2D games, 3D games, and other games. While most of these game assets and game resources are free, some may also offer paid assets through a freemium model. Where possible, we avoid stricly paid assets and resources unless they are best-in-class.
 
-There are countless assets and resources online to help developers craft incredible games. We invested hours to prune these options and filter out unhelpful resources, surfacing only the ones with the highest likelihood of accelerating or lowering the cost of game development. Our research produced more than 150 services and resources that span the gamut of game development, from general game assets, sprites, sounds, music, tile assets, background patterns, and more.
+There are countless assets and resources online to help developers craft incredible games. We spent hours pruning these options and selecting only the best ones to help accelerate game development. Our research produced more than 150 services and resources that span the gamut of game development, from general game assets, sprites, sounds, music, tile assets, background patterns, and more.
 
-We do not summarize assets or highlight free ones because free game assets and resources frequently change their terms or purpose, probably because maintaining free resources is not sustainable for most businesses. Other lists that provide summaries or mark free resources commonly become stale as a result.
+We do not summarize assets or highlight free ones because free game assets and resources frequently change their terms or purpose, probably because maintaining free resources is not sustainable for most businesses. Other lists that provide summaries or tag free resources commonly become stale as a result.
 
 ## List Suggestions
 To add to or remove items from this list, please make a pull request.
