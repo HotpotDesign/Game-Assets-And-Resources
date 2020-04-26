@@ -80,6 +80,9 @@ To add to or remove items from this list, please make a pull request.
 * http://heropatterns.com/
 * https://getwaves.io/
 
+## Color Helpers
+* https://hotpot.ai/assistant/color_assistant
+
 ## Buttons & Badges
 * https://imagefu.com/
 
@@ -167,9 +170,6 @@ To add to or remove items from this list, please make a pull request.
 * http://opsound.org/index.php
 * https://silvermansound.com/free-music
 * http://raisedbeaches.com/octave/index.html
-
-## Color Helpers
-* https://hotpot.ai/assistant/color_assistant
 
 ## Fonts
 * https://fonts.google.com/
