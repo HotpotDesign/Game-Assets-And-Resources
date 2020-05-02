@@ -32,6 +32,9 @@ To add to or remove items from this list, please make a pull request.
 * https://www.coolgameassets.com/
 * https://www.gamerschef.com/
 
+## Asset Creators
+* https://hotpot.ai/image_supersizer: supersize game assets by 2x-4x without losing quality.
+
 ## Icons
 * https://hotpot.ai/free_icons
 * https://material.io/resources/icons/?style=baseline
