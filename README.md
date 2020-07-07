@@ -11,7 +11,7 @@ There are countless assets and resources online to help developers craft incredi
 We do not summarize assets or highlight free ones because free game assets and resources frequently change their terms or purpose, probably because maintaining free resources is not sustainable for most businesses. Other lists that provide summaries or tag free resources commonly become stale as a result.
 
 ## List Suggestions
-To add to or remove items from this list, please make a pull request.
+To add or remove items from this list, please make a pull request.
 
 ## General Assets
 * https://unitylist.com
