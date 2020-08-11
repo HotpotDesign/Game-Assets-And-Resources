@@ -135,6 +135,7 @@ To add or remove items from this list, please make a pull request.
 * http://oyonale.com/modeles.php?lang=en
 * http://cadnav.com/3d-models/
 * https://cgtrader.com/
+* https://hum3d.com/
 * https://tinkercad.com/things 
 * https://nasa3d.arc.nasa.gov/
 * https://blendernation.com/category/art/free-blender-models/
