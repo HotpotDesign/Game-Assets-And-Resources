@@ -1,4 +1,4 @@
-# Game Assets And Resources
+# Free Game Assets
 This tutorial is written by [Hotpot.ai](https://hotpot.ai?s=game_assets). Hotpot helps you create attractive [game assets](https://hotpot.ai/templates/game_asset?s=github_game_assets), [App Store screenshots](https://hotpot.ai/templates/iphone_xs_max?s=github_game_assets), [Google Play screenshots](https://hotpot.ai/templates/samsung_s9?s=github_game_assets), [app icons](https://hotpot.ai/templates/app_store_icon?s=github_game_assets), [logos](https://hotpot.ai/templates/text_design?s=github_game_assets) and other graphics for games, apps, and extensions.
 
 This guide was originally posted on [Hotpot.ai](https://hotpot.ai/blog/game_assets), and is cross-referenced here for developer convenience and to simplify community contributions.
@@ -32,11 +32,13 @@ To add or remove items from this list, please make a pull request.
 * https://www.coolgameassets.com/
 * https://www.gamerschef.com/
 
-## Asset Creators
-* https://hotpot.ai/image_supersizer: supersize game assets by 2x-4x without losing quality.
+## AI Services
+* https://hotpot.ai/art_remixer: generate backgrounds and other assets by mixing art styles.
+* https://hotpot.ai/image_supersizer: supersize game assets without losing quality.
+* https://hotpot.ai/background-remover: remove the background from images.
 
 ## Icons
-* https://hotpot.ai/free_icons
+* https://hotpot.ai/free-icons
 * https://material.io/resources/icons/?style=baseline
 * https://svgrepo.com/
 * https://game-icons.net/
@@ -83,8 +85,8 @@ To add or remove items from this list, please make a pull request.
 * http://heropatterns.com/
 * https://getwaves.io/
 
-## Color Helpers
-* https://hotpot.ai/assistant/color_assistant
+## Color Palette Generators
+* https://hotpot.ai/color-palette-generator
 
 ## Buttons & Badges
 * https://imagefu.com/
