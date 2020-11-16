@@ -15,8 +15,8 @@ To add or remove items from this list, please make a pull request.
 
 ## AI Tools
 
-* https://hotpot.ai/art_remixer: create backgrounds, game art, and other assets with AI
-* https://hotpot.ai/image_supersizer: increase resolution of game assets with AI
+* https://hotpot.ai/art-remixer: create backgrounds, game art, and other assets with AI
+* https://hotpot.ai/image-supersizer: increase resolution of game assets with AI
 * https://hotpot.ai/file-translator?s=github-game-assets: translate games with AI
 
 
