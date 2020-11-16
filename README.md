@@ -6,12 +6,19 @@ This guide was originally posted on [Hotpot.ai](https://hotpot.ai/blog/game_asse
 ## Overview
 This page documents both free and paid assets and resources for making Unity games, iOS games, Android games, 2D games, 3D games, and other games. While most of these game assets and game resources are free, some may also offer paid assets through a freemium model. Where possible, we avoid stricly paid assets and resources unless they are best-in-class.
 
-There are countless assets and resources online to help developers craft incredible games. We spent hours pruning these options and selecting only the best ones to help accelerate game development. Our research produced more than 150 services and resources that span the entire process of game development, from general game assets to sprites, sounds, music, tile assets, background patterns, and more.
+There are countless assets and resources online to help developers craft incredible games. We spent hours pruning these options and selecting only the best ones to help accelerate game development. Our research produced more than 150 services and resources that span the spectrum of game development, from general game assets to sprites, sounds, music, tile assets, background patterns, and more.
 
 We do not summarize assets or highlight free ones because free game assets and resources frequently change their terms or purpose, probably because maintaining free resources is not sustainable for most businesses. Other lists that provide summaries or tag free resources commonly become stale as a result.
 
 ## List Suggestions
 To add or remove items from this list, please make a pull request.
+
+## AI Tools
+
+* https://hotpot.ai/art_remixer: create backgrounds, game art, and other assets with AI
+* https://hotpot.ai/image_supersizer: increase resolution of game assets with AI
+* https://hotpot.ai/file-translator?s=github-game-assets: translate games with AI
+
 
 ## General Assets
 * https://unitylist.com
@@ -31,11 +38,6 @@ To add or remove items from this list, please make a pull request.
 * https://bevouliin.com/category/free_game_asset/
 * https://www.coolgameassets.com/
 * https://www.gamerschef.com/
-
-## AI Services
-* https://hotpot.ai/art_remixer: generate backgrounds and other assets by mixing art styles.
-* https://hotpot.ai/image_supersizer: supersize game assets without losing quality.
-* https://hotpot.ai/background-remover: remove the background from images.
 
 ## Icons
 * https://hotpot.ai/free-icons
