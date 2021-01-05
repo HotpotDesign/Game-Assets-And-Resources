@@ -1,9 +1,11 @@
 # Free Game Assets
+
 This tutorial is written by [Hotpot.ai](https://hotpot.ai?s=game_assets). Hotpot helps you create attractive [game assets](https://hotpot.ai/templates/game_asset?s=github_game_assets), [App Store screenshots](https://hotpot.ai/templates/iphone_xs_max?s=github_game_assets), [Google Play screenshots](https://hotpot.ai/templates/samsung_s9?s=github_game_assets), [app icons](https://hotpot.ai/templates/app_store_icon?s=github_game_assets), [logos](https://hotpot.ai/templates/text_design?s=github_game_assets) and other graphics for games, apps, and extensions.
 
 This guide was originally posted on [Hotpot.ai](https://hotpot.ai/blog/game_assets), and is cross-referenced here for developer convenience and to simplify community contributions.
 
 ## Overview
+
 This page documents both free and paid assets and resources for making Unity games, iOS games, Android games, 2D games, 3D games, and other games. While most of these game assets and game resources are free, some may also offer paid assets through a freemium model. Where possible, we avoid stricly paid assets and resources unless they are best-in-class.
 
 There are countless assets and resources online to help developers craft incredible games. We spent hours pruning these options and selecting only the best ones to help accelerate game development. Our research produced more than 150 services and resources that span the spectrum of game development, from general game assets to sprites, sounds, music, tile assets, background patterns, and more.
@@ -11,6 +13,7 @@ There are countless assets and resources online to help developers craft incredi
 We do not summarize assets or highlight free ones because free game assets and resources frequently change their terms or purpose, probably because maintaining free resources is not sustainable for most businesses. Other lists that provide summaries or tag free resources commonly become stale as a result.
 
 ## List Suggestions
+
 To add or remove items from this list, please make a pull request.
 
 ## AI Tools
@@ -21,6 +24,7 @@ To add or remove items from this list, please make a pull request.
 
 
 ## General Assets
+
 * https://unitylist.com
 * https://kenney.nl/
 * https://opengameart.org/
@@ -29,7 +33,6 @@ To add or remove items from this list, please make a pull request.
 * https://gameart2d.com/freebies.html
 * http://gameartguppy.com/
 * https://assetstore.unity.com/packages/2d/environments/free-platform-game-assets-85838
-* https://lonegamedevs.com/
 * http://devassets.com/
 * https://github.com/sparklinlabs/superpowers-asset-packs
 * https://craftpix.net/freebies/
@@ -40,6 +43,7 @@ To add or remove items from this list, please make a pull request.
 * https://www.gamerschef.com/
 
 ## Icons
+
 * https://hotpot.ai/free-icons
 * https://material.io/resources/icons/?style=baseline
 * https://svgrepo.com/
@@ -57,6 +61,7 @@ To add or remove items from this list, please make a pull request.
 * https://flaticon.com/
 
 ## General Graphics
+
 * http://supergameasset.com/free-game-assets
 * http://freegameassets.blogspot.com/
 * http://unluckystudio.com/category/freegameart/
@@ -68,6 +73,7 @@ To add or remove items from this list, please make a pull request.
 * https://www.reddit.com/r/gameassets/
 
 ## Sprites
+
 * http://untamed.wild-refuge.net/rpgxp.php
 * https://widgetworx.com/spritelib/
 * http://gaurav.munjal.us/Universal-LPC-Spritesheet-Character-Generator/
@@ -77,6 +83,7 @@ To add or remove items from this list, please make a pull request.
 * http://millionthvector.blogspot.com/p/free-sprites.html
 
 ## Backgrounds & Patterns
+
 * https://coolbackgrounds.io/
 * http://generative-placeholders.glitch.me/
 * https://toptal.com/designers/subtlepatterns/
@@ -88,12 +95,15 @@ To add or remove items from this list, please make a pull request.
 * https://getwaves.io/
 
 ## Color Palette Generators
+
 * https://hotpot.ai/color-palette-generator
 
 ## Buttons & Badges
+
 * https://imagefu.com/
 
 ## Textures & Tiles
+
 * https://textures.com/
 * https://gametextures.com/shop
 * https://quixel.com/megascans/home
@@ -108,6 +118,7 @@ To add or remove items from this list, please make a pull request.
 * https://www.textureking.com/
 
 ## Illustrations
+
 * https://joeschmoe.io/
 * https://iconscout.com/
 * https://www.blobmaker.app/
@@ -118,9 +129,11 @@ To add or remove items from this list, please make a pull request.
 * https://isometric.online/
 
 ## Animations
+
 * https://ionicons.com/
 
 ## Pixel Art & Tools
+
 * https://aseprite.org/
 * https://www.piskelapp.com/
 * http://app.poxi.rocks/
@@ -130,6 +143,7 @@ To add or remove items from this list, please make a pull request.
 * http://pickleeditor.com/
 
 ## 3D
+
 * https://poly.google.com/
 * https://assetstore.unity.com/packages/templates/tutorials/3d-game-kit-115747
 * https://free3d.com/
@@ -140,7 +154,7 @@ To add or remove items from this list, please make a pull request.
 * http://cadnav.com/3d-models/
 * https://cgtrader.com/
 * https://hum3d.com/
-* https://tinkercad.com/things 
+* https://tinkercad.com/things
 * https://nasa3d.arc.nasa.gov/
 * https://blendernation.com/category/art/free-blender-models/
 * https://ephtracy.github.io/
@@ -153,6 +167,7 @@ To add or remove items from this list, please make a pull request.
 * http://creativity103.com/
 
 ## Sounds & Music
+
 * https://unminus.com/
 * http://dig.ccmixter.org/
 * https://producthunt.com/posts/fugue-2-0
@@ -168,7 +183,7 @@ To add or remove items from this list, please make a pull request.
 * https://bensound.com/
 * https://icons8.com/music
 * https://sonic-pi.net/
-* https://youtube.com/audiolibrary/music?nv=1
+* [Audio Library — Music for content creators](https://www.youtube.com/channel/UCht8qITGkBvXKsR1Byln-wA)
 * http://flashkit.com/soundfx/
 * https://newgrounds.com/audio/
 * https://musopen.org/
@@ -180,6 +195,7 @@ To add or remove items from this list, please make a pull request.
 * http://raisedbeaches.com/octave/index.html
 
 ## Fonts
+
 * https://fonts.google.com/
 * https://fontlibrary.org/
 * https://dafont.com/
@@ -192,17 +208,21 @@ To add or remove items from this list, please make a pull request.
 * https://muffingroup.com/blog/best-free-fonts/
 
 ## Miscellaneous
+
 * https://quickdraw.withgoogle.com/data
 * https://github.com/YarnSpinnerTool/YarnSpinner
 
 ## Databases & Servers
+
 * https://firebase.google.com/
 
 ## Editors
+
 * https://www.mapeditor.org/
 * http://boundingboxsoftware.com/materialize/
 
 ## Credits
+
 This list builds upon these lists made by others:
 
 * https://github.com/Calinou/awesome-gamedev
