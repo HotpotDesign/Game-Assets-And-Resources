@@ -93,6 +93,7 @@ To add or remove items from this list, please make a pull request.
 * http://btmills.github.io/geopattern/
 * http://heropatterns.com/
 * https://getwaves.io/
+* https://patterns.beaubus.com/
 
 ## Color Palette Generators
 
