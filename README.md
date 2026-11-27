@@ -192,6 +192,7 @@ To add or remove items from this list, please make a pull request.
 * https://musical-artifacts.com/artifacts
 * http://opsound.org/index.php
 * https://silvermansound.com/free-music
+* [No Kings Music free collection](https://nokingsmusic.com/product-category/free/)
 * http://raisedbeaches.com/octave/index.html
 
 ## Fonts
